@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-TÄSSÄ ON LINKKI SOVELLUKSEEN: https://osa-3.onrender.com    
+TÄSSÄ ON LINKKI SOVELLUKSEEN: https://osa-3-puhelinluettelo-ja-tietokanta.onrender.com
